@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\ALU\ALU.mcppi
+Project1=Traffic_light_controller.mcppi
+[ActiveProject]
+Index=1

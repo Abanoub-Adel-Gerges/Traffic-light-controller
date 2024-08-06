@@ -1,0 +1,15 @@
+main
+	__CC2DW
+		____DoICP
+	manual_mode
+		to_BCD
+			Div_16x16_S
+				Div_16x16_S_L
+	stop_west
+		to_BCD
+			Div_16x16_S
+				Div_16x16_S_L
+	stop_south
+		to_BCD
+			Div_16x16_S
+				Div_16x16_S_L
